@@ -127,7 +127,7 @@ if (!empty($_POST)) {
 	<div class="container">
 		<div class="span10 offset1">
 			<div class="row">
-				<h3>Actualizar datos de un auto</h3>
+				<h3>Actualizar producto</h3>
 			</div>
 
 			<form class="form-horizontal" action="updateProducto.php?id=<?php echo $id ?>" method="post">
